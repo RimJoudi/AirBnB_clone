@@ -2,7 +2,7 @@
 """
 Init
 to create a unique FileStorage instance for our AirBnB
-clone app
+clone
 """
 from models.engine.file_storage import FileStorage
 
