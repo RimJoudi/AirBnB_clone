@@ -99,6 +99,6 @@ class TestBaseModel(unittest.TestCase):
         new_instance.name = "Holberton"
         self.assertEqual(new_instance.name, "Holberton")
 
+
 if __name__ == "__main__":
     unittest.main()
-
