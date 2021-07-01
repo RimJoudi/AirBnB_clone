@@ -1,7 +1,7 @@
 # AirBnB_clone
 
+![65f4a1dd9c51265f49d0](https://user-images.githubusercontent.com/77971241/124041240-68512100-d9fe-11eb-986b-680fa72d7fd5.png)
 
-[![hbnb](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210630T103636Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=21ed3569299860cd7625afe6a66cfa3c6b06be4b25e54619ae1c4b0916148aad "hbnb")](https://www.holbertonschool.com/tn/en/ "hbnb")
 
 ## Description of the project
 
